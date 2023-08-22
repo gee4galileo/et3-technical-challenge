@@ -24,7 +24,7 @@ The solution automates the process of organizing and processing a dataset of ima
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/gee4galileo/et3-technical-challenge.git
     ```
 2. Navigate to the solution directory:
     ```bash
